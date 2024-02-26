@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suhail Mahmoud</h1>
 <h3 align="center">Software Developer & Computer Science Instructor</h3>
 
-- 🌱 I’m currently learning core blockchain development **Ethereum, Solidity, Ganache**
-
-- 📫 How to reach me **suhail.abdelaal@gmail.com**
+- 🌱 I’m currently learning core blockchain development 
+  - **Ethereum**
+  - **Solidity**
+  - **Ganache**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
