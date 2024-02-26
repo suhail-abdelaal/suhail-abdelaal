@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhail Mahmoud</h1>
 <h3 align="center">Software Developer & Computer Science Instructor</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail-abdelaal)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🌱 I’m currently learning core blockchain development **Ethereum, Solidity, Ganache**
 
 - 📫 How to reach me **suhail.abdelaal@gmail.com**
