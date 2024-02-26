@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhail Mahmoud</h1>
 <h3 align="center">Software Developer & Computer Science Instructor</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhail-abdelaal" alt="suhail-abdelaal" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail-abdelaal)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning core blockchain development **Ethereum, Solidity, Ganache**
 
