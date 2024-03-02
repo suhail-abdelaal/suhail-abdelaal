@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suhail Mahmoud</h1>
 <h3 align="center">Software Developer & Computer Science Instructor</h3>
 
-- 🌱 I’m currently learning core blockchain development 
+- 🌱 Currently learning core blockchain development 
+  - **Web3**
   - **Ethereum**
-  - **Solidity**
-  - **Ganache**
+  - **Smart Contracts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
